@@ -1,0 +1,7 @@
+*.bw
+*.pkl
+data/drerio_hic_mcool/*
+notebooks/.ipynb_checkpoints/*
+data/
+papers/
+

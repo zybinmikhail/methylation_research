@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+pyBigWig
+hmmlearn
+scikit-learn
+notebook
+ipykernel
+tqdm
+nb_conda_kernels
+
